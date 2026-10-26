@@ -1,12 +1,12 @@
 # Hobie 14 Wing Bench
 
-A wing bench for a Hobie 14 Turbo catamaran, designed and built by Grant O'Brien.
-It is a work in progress, not a finished product.
+A wing bench for a Hobie 14 Turbo catamaran, designed and built by myself.
+It is a work in progress.
 
 ## Files
 
 - `HobieWingBench.stl` — the original CAD geometry, in ASCII STL format (4,096 facets, watertight).
-- `HobieWingBench.gltf` — the same geometry as a glTF file with an embedded buffer, for use with Google's model-viewer. It carries a single brushed-aluminum material (silver, fully metallic, roughness 0.35), matching the planned 6061-T6 aluminum build.
+- `HobieWingBench.gltf` — the same geometry as a glTF file with an embedded buffer, for use with Google's model-viewer. 
 
 ## Model
 
